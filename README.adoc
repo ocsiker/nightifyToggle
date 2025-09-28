@@ -1,0 +1,6 @@
+# this is content for script darkmode
+
+toogle darkmode with file pdf open on chrome
++ hotkey
+Alt + b
+
