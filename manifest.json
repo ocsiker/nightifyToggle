@@ -12,7 +12,7 @@
   "commands": {
     "toggle-nightify": {
       "suggested_key": {
-        "default": "Alt+B"
+        "default": "Ctrl+Shift+B"
       },
       "description": "Toggle nightify mode"
     }
